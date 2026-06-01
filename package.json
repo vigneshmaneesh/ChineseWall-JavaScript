@@ -1,7 +1,7 @@
 {
   "name": "simple-chinese-wall",
   "version": "1.0.0",
-  "description": "A simple JavaScript implementation of the Chinese Wall security policy.",
+  "type": "module",
   "main": "src/demo.js",
   "scripts": {
     "start": "node src/demo.js"
