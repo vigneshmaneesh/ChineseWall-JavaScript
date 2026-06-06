@@ -1,5 +1,8 @@
 {
-  "vignesh": {
-    "readDatasets": ["c1"]
+  "u1": {
+    "readDatasets": []
+  },
+  "u2": {
+    "readDatasets": []
   }
 }
