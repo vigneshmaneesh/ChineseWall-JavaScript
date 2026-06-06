@@ -1,0 +1,28 @@
+[
+    {    "id": "c1",
+        "name": "KPMG Advisory W.L.L.",
+        "coiClass": "consulting"
+
+    },
+    {
+        "id": "c2",
+        "name": "PWC",
+        "coiClass": "consulting"
+    },
+    {
+        "id": "u1",
+        "name": "University of Strathclyde",
+        "coiClass": "education"
+    },
+    {
+
+        "id": "u2",
+        "name": "Heriot-Watt University",
+        "coiClass": "education"
+    },
+    {
+        "id": "f1",
+        "name": "Dominos Pizza",
+        "coiClass": "food"   
+    }
+]

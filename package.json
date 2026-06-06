@@ -1,12 +1,13 @@
 {
-  "name": "simple-chinese-wall",
+  "name": "chinesewall-javascript",
   "version": "1.0.0",
+  "description": "",
   "type": "module",
-  "main": "src/demo.js",
+  "main": "src/functions.js",
   "scripts": {
-    "start": "node src/demo.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "MIT",
   "keywords": [],
-  "author": ""
+  "author": "",
+  "license": "ISC"
 }
