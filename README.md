@@ -3,18 +3,7 @@
 
 # To do
 
-
-
-
-8. Write `canRead(userId, dataID)` to check Chinese Wall read rules
-9. Write `canWrite(userId, dataID)` to check basic write restriction/revocation
-10. Create a demo scenario:
-    - user reads KPMG
-    - user tries to read PWC
-    - user tries to read Domino's Pizza
-11. Print clear ALLOW/DENY messages with reasons
-12. Add simple error handling for unknown user ID or dataset ID
-
+Prototype completed
 
 # Done
 
@@ -25,3 +14,14 @@
 5. Create `accessHistory.json` to store which datasets each user has read
 6. Write a function to declare that a user read a dataset
 7. Write a function to get a user's access history
+8. Write a function to find a data by ID
+9. Create getReadDatasets(userID)
+10. Create datasetsConflict(datasetA, datasetB)
+11. Implement getConflictingReadDataset(userID, requestedDatasetID)
+12. Write `canRead(userID, dataID)` to check Chinese Wall read rules
+13. Write `canWrite(userId, dataID)` to check basic write restriction/revocation
+14. Create attemptRead(userID, datasetID)
+15. Create attemptWrite(userID, datasetID)
+16. Create a demo scenario
+17. Print clear ALLOW/DENY messages with reasons
+18. Add simple error handling for unknown user ID or dataset ID

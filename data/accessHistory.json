@@ -1,12 +1,21 @@
 [
   {
     "userID": "u1",
-    "readDatasets": [
-      "c1"
-    ]
+    "readDatasets": []
   },
   {
     "userID": "u2",
-    "readDatasets": []
+    "readDatasets": [
+      "c1",
+      "s2",
+      "f1"
+    ]
+  },
+  {
+    "userID": "u3",
+    "readDatasets": [
+      "c1",
+      "f1"
+    ]
   }
 ]
