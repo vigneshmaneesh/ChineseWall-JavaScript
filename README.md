@@ -2,7 +2,7 @@
 
 A small JavaScript prototype for testing the basic logic behind the Chinese Wall security policy.
 
-This is not the final Solid/CSS implementation. I made this first to understand the policy logic in a simpler environment before connecting it to Solid Pods, WAC/ACP, and access-history based enforcement.
+Developed as a working prototype to validate access-control logic before developing the full project in the MSc dissertation project (Solid/CSS, Node.js, TypeScript). I made this first to understand the policy logic in a simpler environment before connecting it to Solid Pods, WAC/ACP, and access-history based enforcement.
 
 ## What this does
 
