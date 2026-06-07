@@ -1,6 +1,4 @@
-# simple-chinese-wall-js
-
-# ChineseWall-JavaScript
+# Simple ChineseWall-JavaScript
 
 A small JavaScript prototype for testing the basic logic behind the Chinese Wall security policy.
 
