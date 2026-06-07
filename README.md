@@ -37,10 +37,6 @@ Before dealing with Solid authentication, Pods, WAC/ACP, or SELinux, I wanted a 
 
 So this repo is basically the first step:
 
-```text
-JavaScript policy logic first
-Solid/CSS integration later
-```
 
 ## Project structure
 
