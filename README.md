@@ -29,6 +29,20 @@ Result: deny.
 
 But if the user tries to read something from a different COI class, such as food, it should be allowed.
 
+## Running the demo
+
+Install dependencies if needed:
+
+```bash
+npm install
+```
+
+Run the demo:
+
+```bash
+node src/demo.js
+```
+
 ## Why I made this
 
 This project is preparation for my MSc dissertation work on applying a Chinese Wall policy in the Solid ecosystem.
@@ -147,20 +161,6 @@ attemptWrite(userID, datasetID)
 ```
 
 Tries to write to a dataset. It does not update read history.
-
-## Running the demo
-
-Install dependencies if needed:
-
-```bash
-npm install
-```
-
-Run the demo:
-
-```bash
-node src/demo.js
-```
 
 The demo shows a basic flow:
 
