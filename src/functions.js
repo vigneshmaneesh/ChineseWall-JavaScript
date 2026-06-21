@@ -14,7 +14,7 @@ export function jsonParser(input) {
 
     // stops if jsonParser is called with an unknown file
     if (filePath === undefined) {
-        throw new Error(`JSON file not found: ${input}`);
+        throw new Error(`JSON file not found`);
     }
 
     try {

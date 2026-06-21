@@ -2,7 +2,7 @@
 
 A small JavaScript prototype for testing the basic logic behind the Chinese Wall security policy.
 
-Developed as a working prototype to validate access-control logic before developing the full project in the MSc dissertation project (Solid/CSS, Node.js, JavaScript). I made this first to understand the policy logic in a simpler environment before connecting it to Solid Pods, WAC/ACP, and access-history based enforcement.
+Developed as a working prototype to validate access-control logic before developing the full project in the MSc dissertation. I made this first to understand the policy logic in a simpler environment before connecting it to Solid Pods, WAC/ACP, and access-history based enforcement.
 
 ## What this does
 
@@ -42,15 +42,6 @@ Run the demo:
 ```bash
 node src/demo.js
 ```
-
-## Why I made this
-
-This project is preparation for my MSc dissertation work on applying a Chinese Wall policy in the Solid ecosystem.
-
-Before dealing with Solid authentication, Pods, WAC/ACP, or SELinux, I wanted a simple version of the decision logic that I could actually understand and test.
-
-So this repo is basically the first step:
-
 
 ## Project structure
 
